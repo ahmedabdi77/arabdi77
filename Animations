@@ -1,0 +1,10 @@
+have div1 inside div2 inside div3 inside d4
+all with a set of dimensions,border and background color
+at a click of a button cause all to fadeout or hide at different speed
+the inners one first
+use a radiobutton to allow user to choose either the fade or
+the hide/show
+
+have an + icon to click on
+once it is clicked on a list of 4 items drops down and the icon become a - icon
+click on the - icon and the list goes back up and the icon changes to + icon
